@@ -1,0 +1,23 @@
+[
+    {
+        "placeholder": "Enter Your Name",
+        "type": "text",
+        "name":"name"
+    },
+    {
+        "placeholder": "Enter Your Email",
+        "type": "email",
+        "name":"email"
+    },
+    {
+        "placeholder": "Enter Your Password",
+        "type": "password",
+        "name":"password"
+    },
+    {
+        "placeholder": "Select Role",
+        "name":"role",
+        "type": "Select",
+        "options":[{"value":"User","label":"User"},{"value":"Admin","label":"Admin"}]
+    }
+]

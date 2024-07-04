@@ -1,0 +1,32 @@
+[
+    {
+        "placeholder": "Enter Your Name",
+        "type": "text",
+        "name":"name"
+    },
+    {
+        "placeholder": "Enter Your Shop Name",
+        "type": "text",
+        "name":"shopname"
+    },
+    {
+        "placeholder": "Enter Your Email",
+        "type": "email",
+        "name":"email"
+    },
+    {
+        "placeholder": "Enter Your Rating out of 5",
+        "type": "text",
+        "name":"rating"
+    },
+    {
+        "placeholder": "Enter Your Password",
+        "type": "password",
+        "name":"password"
+    },
+    {
+        "placeholder": "Enter Shop Address",
+        "type": "text",
+        "name":"address"
+    }
+]

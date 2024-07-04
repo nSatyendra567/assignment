@@ -1,0 +1,30 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/Dashboard"
+    },
+    {
+        "display_name": "Add User",
+        "route": "/Adduser"
+    },
+    {
+        "display_name": "Add Store and Shop Owner",
+        "route": "/Addstore"
+    },
+    {
+        "display_name": "Ratings",
+        "route": "/Ratings"
+    },
+    {
+        "display_name": "ALL User",
+        "route": "/Totaluser"
+    },
+    {
+        "display_name": "ALL Store",
+        "route": "/Totalstore"
+    },
+    {
+        "display_name": "ALL Shop Owner",
+        "route": "/AllOwner"
+    }
+]
