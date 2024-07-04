@@ -49,7 +49,7 @@ npm start
 ```
 ## 📁 Project Structure
 
-```sh
+```
 assignment/
 ├── backend/    # Backend source code
 │   ├── src/
